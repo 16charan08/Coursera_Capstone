@@ -1,5 +1,3 @@
-# Coursera_Capstone_week1
+# Coursera_Capstone
 
-import pandas as pd \
-import numpy as np \
-print("Hello Capstone Project Course!")
+### This repository is coursera capstone project
